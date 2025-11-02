@@ -5,7 +5,7 @@ public class Main
     private static Map<String, Integer> memo = new HashMap<>();
     public static void main(String[] args)
     {
-        System.out.println("Code Change!")
+        System.out.println("Code Change!");
         int row = 5; 
         for (int i = 0; i < row; i++)
         {
